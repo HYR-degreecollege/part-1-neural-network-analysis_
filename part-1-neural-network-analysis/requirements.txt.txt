@@ -1,0 +1,12 @@
+
+
+
+Create a file named `requirements.txt`
+
+```txt id="3g4y7f"
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+jupyter
